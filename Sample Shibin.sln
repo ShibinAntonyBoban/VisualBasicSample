@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample Shibin", "Sample Shibin\Sample Shibin.csproj", "{F613E29F-4789-4B4A-B386-B68C0D542CB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F613E29F-4789-4B4A-B386-B68C0D542CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F613E29F-4789-4B4A-B386-B68C0D542CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F613E29F-4789-4B4A-B386-B68C0D542CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F613E29F-4789-4B4A-B386-B68C0D542CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AD4FA58-8851-493D-9B0A-34162AC1A8A2}
+	EndGlobalSection
+EndGlobal

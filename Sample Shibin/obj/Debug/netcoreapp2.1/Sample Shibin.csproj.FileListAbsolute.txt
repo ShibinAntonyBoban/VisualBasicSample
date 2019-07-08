@@ -1,0 +1,32 @@
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\bin\Debug\netcoreapp2.1\Sample Shibin.deps.json
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\bin\Debug\netcoreapp2.1\Sample Shibin.runtimeconfig.json
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\bin\Debug\netcoreapp2.1\Sample Shibin.runtimeconfig.dev.json
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\bin\Debug\netcoreapp2.1\Sample Shibin.dll
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\bin\Debug\netcoreapp2.1\Sample Shibin.pdb
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\bin\Debug\netcoreapp2.1\Sample Shibin.Views.dll
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\bin\Debug\netcoreapp2.1\Sample Shibin.Views.pdb
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Sample Shibin.csprojAssemblyReference.cache
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Sample Shibin.csproj.CoreCompileInputs.cache
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Sample Shibin.RazorAssemblyInfo.cache
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Sample Shibin.RazorAssemblyInfo.cs
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Sample Shibin.AssemblyInfoInputs.cache
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Sample Shibin.AssemblyInfo.cs
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Sample Shibin.TagHelpers.input.cache
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Sample Shibin.TagHelpers.output.cache
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Sample Shibin.RazorCoreGenerate.cache
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Sample Shibin.RazorTargetAssemblyInfo.cache
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Sample Shibin.RazorTargetAssemblyInfo.cs
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Sample Shibin.Views.pdb
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Sample Shibin.dll
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Sample Shibin.pdb
+C:\Users\shibin.antony\source\repos\Sample Shibin\Sample Shibin\obj\Debug\netcoreapp2.1\Sample Shibin.csproj.CopyComplete
